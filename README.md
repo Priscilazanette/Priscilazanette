@@ -16,7 +16,7 @@
 
 ##
 <div>     
- <a href="https://linktr.ee/finalart.znt" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
+ <a href="https://linktr.ee/finalart.znt" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank" rel='external' ></a>
 
 <img align="right" alt="image" height="150" width="150" src="https://cdn.picrew.me/shareImg/org/202212/338224_cLSMsthQ.png"/> </div>
                     
