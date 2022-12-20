@@ -1,4 +1,4 @@
-### Olá! Eu sou a Priscila Zanette 🤍
+### Oii! Eu sou a Priscila Zanette 🤍
 
 
 - 🌱 Estou estudando HTML, CSS3 e JavaScrip!
