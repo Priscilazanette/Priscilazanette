@@ -2,7 +2,6 @@
 
 
 - 🌱 Estou estudando HTML, CSS3 e JavaScrip!
-- 📫 Você pode me contactar pelo e-mail: priscilamzanette@gmail.com
 
 ##
 <div style=display:inline_block"><br>
