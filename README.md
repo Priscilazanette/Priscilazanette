@@ -4,10 +4,6 @@
 - 🌱 Estou estudando HTML, CSS3 e JavaScrip!
 - 📫 Você pode me contactar pelo e-mail: priscilamzanette@gmail.com
 
-
-<div>
-<img height"180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini2&1ayout=compact&langs_count=16&theme=dracula"/_> </div>
-
 ##
 <div style=display:inline_block"><br>
 <img align=center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
