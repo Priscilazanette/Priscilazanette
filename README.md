@@ -1,6 +1,6 @@
 ### <h1>👾 Hey! I'm Priscila Zanette!</h1>
 <img align="right" alt="image" height="400" width="160" src="https://github.com/Priscilazanette/Imagens/blob/main/eeuuu1.png"/>
-<p>I'm 33 years old, i'm live in Ijuí-Rio Grande do Sul. I'm an Illustrator freelancer and now i'm studying Front-end dev with focus on web development. <br>I'm a beginner in the programming universe.😅</br></p>
+<p>I'm 33 years old, i'm live in Ijuí-Rio Grande do Sul- Brazil. I'm an Illustrator freelancer and now i'm studying Front-end dev with focus on web development. <br>I'm a beginner in the programming universe.😅</br></p>
 
 
 
