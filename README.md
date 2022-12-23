@@ -1,3 +1,5 @@
+<img align="center" alt="image" height="400" width="5050" src="https://github.com/Priscilazanette/Imagens/blob/main/fdfffffffffff5.jpg"/>
+
 ### <h1>👾 Hey! I'm Priscila Zanette!</h1>
 <img align="right" alt="image" height="400" width="370" src="https://github.com/Priscilazanette/Imagens/blob/main/fdfffffffffff4.png"/>
 <p>I'm 33 years old, i'm live in Ijuí-Rio Grande do Sul- Brazil. I'm an Illustrator freelancer and now i'm studying Front-end dev with focus on web development. <br>I'm a beginner in the programming universe.😅</br></p>
