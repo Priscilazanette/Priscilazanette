@@ -16,10 +16,8 @@
 
 <div>     
  <a href="https://linktr.ee/finalart.znt" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank" rel='external' ></a>
-
  </div>
  <div>     
- <a href="https://linktr.ee/finalart.znt" target="_blank"><img src=https://icongr.am/devicon/linkedin-original.svg?size=128&color=faf9f9></a>
-
+ <a href="https://www.linkedin.com/in/priscila-zanette-b86261234/)" target="_blank"><img src=<i class="devicon-linkedin-plain-wordmark"></i>/a>
  </div>
                     
