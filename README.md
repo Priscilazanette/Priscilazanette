@@ -19,7 +19,7 @@
 
  </div>
  <div>     
- <a href="https://linktr.ee/finalart.znt" target="_blank"><img src=https://icongr.am/devicon/linkedin-original.svg?size=128&color=faf9f9 ></a>
+ <a href="https://linktr.ee/finalart.znt" target="_blank"><img src=[https://icongr.am/devicon/linkedin-original.svg?size=128&color=faf9f9></a>
 
  </div>
                     
